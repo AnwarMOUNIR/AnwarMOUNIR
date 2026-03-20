@@ -4,7 +4,7 @@
 
 **Data Scientist** | **Élève Ingénieur Centralien**
 
-*"Bridging the gap between raw data and intelligent, explainable systems."*
+*"Combler l'écart entre les données brutes et les systèmes intelligents et expliquables."*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anwar-mounir-35780a264/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anwar.mounir@centrale-casablanca.ma)
@@ -14,152 +14,152 @@
 
 ---
 
-## 👨‍🎓 About Me
+## 👨‍🎓 À Propos
 
-First-year engineering student at **École Centrale Casablanca**, specializing in **Data Science** and **AI Engineering**. I'm passionate about building robust machine learning models, designing scalable data pipelines, and creating explainable AI solutions that solve real-world problems.
+Élève ingénieur en première année à l'**École Centrale Casablanca**, spécialisé en **Data Science** et **Ingénierie IA**. Je suis passionné par la construction de modèles d'apprentissage robustes, la conception de pipelines de données évolutifs et la création de solutions IA expliquables qui résolvent des problèmes du monde réel.
 
-**Education:** Centralien Engineering School (2025–Present) | CPGE Lycée Mohammed V, CNC (2023–2025)
+**Formation:** École Centrale Casablanca (2025–Présent) | CPGE Lycée Mohammed V, CNC (2023–2025)
 
-**Location:** Bouskoura, Morocco | **Age:** 19 | **Contact:** +212 600 951 587
+**Localisation:** Bouskoura, Maroc | **Âge:** 19 ans | **Contact:** +212 600 951 587
 
 ---
 
-## 🛠️ Technical Arsenal
+## 🛠️ Arsenal Technique
 
-### 🤖 AI & Machine Learning
-- **Deep Learning:** GRU, Embedding, RAG, Multimodal APIs, Prompt Engineering
-- **Vector Operations:** Vector Search, MMR (Maximum Marginal Relevance)
+### 🤖 Intelligence Artificielle & Machine Learning
+- **Deep Learning:** GRU, Embedding, RAG, APIs multimodales, Prompt Engineering
+- **Opérations Vectorielles:** Recherche vectorielle, MMR (Maximum Marginal Relevance)
 - **Frameworks:** TensorFlow, Keras, NumPy, Pandas, Matplotlib
-- **Optimization:** Temperature Scaling, Entropy Optimization, Probabilistic Methods
+- **Optimisation:** Temperature Scaling, Optimisation d'entropie, Méthodes Probabilistes
 
 ### 📊 Data & Cloud
 - **Orchestration:** Dagster
-- **Vector Databases:** Milvus
-- **Containerization:** Docker
+- **Bases de Données Vectorielles:** Milvus
+- **Conteneurisation:** Docker
 - **APIs:** Google Gemini API, FastAPI
-- **Databases:** SQL, DuckDB
+- **Bases de Données:** SQL, DuckDB
 
-### 💻 Languages & Systems
-- **Languages:** Python (Advanced), C++, TypeScript, Bash, SQL
-- **Tools:** Linux, Git/GitHub, LaTeX
+### 💻 Langages & Systèmes
+- **Langages:** Python (Avancé), C++, TypeScript, Bash, SQL
+- **Outils:** Linux, Git/GitHub, LaTeX
 - **Web:** React, Vite, Tailwind CSS, Streamlit
 
-### 📚 Other Skills
-- **Soft Skills:** Systemic Thinking, Complexity Management, Collaborative Work
-- **Productivity:** Google Workspace (Advanced), Jira, PowerBI (Beginner)
-- **Languages:** French (Fluent/Technical), English (Fluent), Arabic (Native)
+### 📚 Autres Compétences
+- **Compétences Transverses:** Approche Systémique, Gestion de la Complexité, Travail Collaboratif
+- **Productivité:** Google Workspace (Avancé), Jira, PowerBI (Débutant)
+- **Langues:** Français (Courant/Technique), Anglais (Courant), Arabe (Langue maternelle)
 
 ---
 
-## 🎯 Featured Projects
+## 🎯 Projets Phares
 
-### 🚀 DeepStudy - AI-Powered Study Companion
-**Google DeepMind Hackathon | Dec 2025 – Feb 2026**
+### 🚀 DeepStudy - Assistant d'Étude IA
+**Hackathon Google DeepMind | Déc 2025 – Fév 2026**
 
-An intelligent study assistant that transforms raw educational materials into structured courses using multimodal AI.
+Un assistant d'étude intelligent qui transforme des matériaux pédagogiques bruts en cours structurés utilisant l'IA multimodale.
 
-- **Tech Stack:** React, Gemini API, FastAPI, Vite, Tailwind CSS
-- **Key Features:**
-  - Real-time concept explanation powered by Google Gemini 3
-  - Multimodal synchronization (Audio/PDF)
-  - Secure authentication & data privacy
-  - Zero-latency interactions with distraction-free UI
-
----
-
-### 📚 MingoKM - RAG Engineering Search Engine
-**Nov 2025 – Feb 2026**
-
-High-performance multilingual RAG system for ingesting and searching 10,000+ engineering research papers.
-
-- **Tech Stack:** Python, Dagster, Milvus, FastAPI, DuckDB
-- **Key Features:**
-  - SHA-256 exact deduplication
-  - Semantic chunking & text cleaning (Regex)
-  - Milvus vector storage with BGE-M3 embeddings
-  - MMR re-ranking for semantic diversity
-  - ELT pipeline orchestrated by Dagster
+- **Stack Technique:** React, Gemini API, FastAPI, Vite, Tailwind CSS
+- **Fonctionnalités Clés:**
+  - Explication de concepts en temps réel alimentée par Google Gemini 3
+  - Synchronisation multimodale (Audio/PDF)
+  - Authentification sécurisée et confidentialité des données
+  - Interactions sans latence avec interface épurée
 
 ---
 
-### 🏥 LifeSaverBN3000 - Medical Decision Support System
+### 📚 MingoKM - Moteur de Recherche Ingénierie RAG
+**Nov 2025 – Fév 2026**
+
+Système RAG hautement performant et multilingue pour ingérer et rechercher plus de 10 000 articles de recherche en ingénierie.
+
+- **Stack Technique:** Python, Dagster, Milvus, FastAPI, DuckDB
+- **Fonctionnalités Clés:**
+  - Déduplication exacte SHA-256
+  - Chunking sémantique et nettoyage de texte (Regex)
+  - Stockage vectoriel Milvus avec embeddings BGE-M3
+  - Ré-classement MMR pour diversité sémantique
+  - Pipeline ELT orchestré par Dagster
+
+---
+
+### 🏥 LifeSaverBN3000 - Système d'Aide à la Décision Médicale
 **Mar 2026 – Mar 2026**
 
-Robust machine learning pipeline for clinical obesity risk classification with medical safety guardrails and explainability.
+Pipeline robuste de machine learning pour la classification clinique du risque d'obésité avec protections de sécurité médicale et expliquabilité.
 
-- **Tech Stack:** Python, Streamlit, Scikit-Learn, SHAP, GitHub Actions, Docker
-- **Key Features:**
-  - Developed Random Forest classifier achieving **94.8% accuracy** on 7-class obesity risk prediction
-  - **Medically-grounded Safety Guards:** Rule-based overrides using BMI thresholds to prevent physiologically implausible AI predictions
-  - **SHAP Explainability Dashboard:** Integrated into Streamlit for transparent, feature-level patient insights
-  - **Production-Ready CI/CD:** GitHub Actions pipeline with Docker containerization for automated testing and deployment
+- **Stack Technique:** Python, Streamlit, Scikit-Learn, SHAP, GitHub Actions, Docker
+- **Fonctionnalités Clés:**
+  - Développement d'un classifieur Random Forest atteignant **94,8% de précision** sur la prédiction d'obésité en 7 classes
+  - **Garde-fous Médicaux Fondés:** Surcharges basées sur des règles utilisant des seuils d'IMC pour prévenir les prédictions IA physiologiquement implausibles
+  - **Tableau de Bord SHAP:** Intégré dans Streamlit pour une transparence totale et des insights au niveau des caractéristiques
+  - **CI/CD Prêt pour la Production:** Pipeline GitHub Actions avec conteneurisation Docker pour tests automatisés et déploiement sans faille
 
 ---
 
-### 🤖 Character-Level Name Generator
+### 🤖 Générateur de Noms - IA Générative au Niveau des Caractères
 **Jan 2026 – Mar 2026**
 
-Custom RNN generating novel, phonetically viable human names using deep learning.
+Réseau neuronal récurrent personnalisé générant des noms humains nouveaux et phonétiquement viables.
 
-- **Tech Stack:** TensorFlow, Keras, NumPy, Pandas
-- **Key Features:**
-  - Trained on 5.6M+ row dataset
-  - 84% validation accuracy in 5 epochs
-  - Temperature scaling (T=1.5) for creative output
-  - Custom benchmarking for repetition testing
+- **Stack Technique:** TensorFlow, Keras, NumPy, Pandas
+- **Fonctionnalités Clés:**
+  - Entraîné sur un ensemble de données de 5,6M+ lignes
+  - Précision de validation de 84% en seulement 5 epochs
+  - Temperature scaling (T=1,5) pour résultats créatifs
+  - Benchmarking personnalisé pour tester les répétitions
 
 ---
 
-### 🤖 Robotic Line-Follower System
+### 🤖 Système de Suivi de Ligne Robotique
 **Jan 2026**
 
-Autonomous line-following control system for mobile robot (PiCar-Pro V2).
+Système autonome de contrôle du suivi de ligne pour robot mobile (PiCar-Pro V2).
 
-- **Tech Stack:** Python, OpenCV, Raspberry Pi
-- **Key Features:**
-  - Real-time video processing
-  - Computer vision pipelines for autonomous navigation
+- **Stack Technique:** Python, OpenCV, Raspberry Pi
+- **Fonctionnalités Clés:**
+  - Traitement vidéo en temps réel
+  - Pipelines de vision par ordinateur pour navigation autonome
 
 ---
 
-## 📜 Certifications & Learning
+## 📜 Certifications & Formations
 
-| Certification | Platform | Status |
+| Certification | Plateforme | Statut |
 |---|---|---|
-| **Google Project Management Professional** | Coursera | ✅ Completed (Dec 2025) |
-| **Data Engineer Track** | DataCamp | 🔄 In Progress (Expected May 2026) |
-| **SQL for Business Analysts** | DataCamp | 🔄 In Progress (Mar 2026) |
-| **Cloud Computing & Business Intelligence** | AWS/Azure | 📅 Planned (Jun 2026) |
+| **Google Project Management Professional** | Coursera | ✅ Complétée (Déc 2025) |
+| **Parcours Data Engineer** | DataCamp | 🔄 En cours (Fin prévue Mai 2026) |
+| **SQL pour Analystes Business** | DataCamp | 🔄 En cours (Mar 2026) |
+| **Cloud Computing & Business Intelligence** | AWS/Azure | 📅 Planifiée (Jun 2026) |
 
-### Active Learning
-- Machine Learning Pipelines
-- Data Cleaning & Preprocessing
-- Ethical Hacking Fundamentals
-- Advanced SQL & Data Architecture
-
----
-
-## 🏢 Involvement
-
-**Centrale Tech** - Active Member & Workshop Participant
-
-As an active member of our engineering school's technical club, I participate in hands-on workshops bridging theoretical knowledge and practical engineering skills.
+### Formations Actives
+- Pipelines de Machine Learning
+- Nettoyage & Prétraitement de Données
+- Fondamentaux du Hacking Éthique
+- Architecture Avancée SQL et Bases de Données
 
 ---
 
-## 📊 GitHub Stats
+## 🏢 Implication
+
+**Centrale Tech** - Membre Actif et Participant aux Ateliers
+
+En tant que membre actif du club technique de mon école d'ingénierie, je participe à des ateliers pratiques comblant le fossé entre connaissances théoriques et compétences d'ingénierie pratiques.
+
+---
+
+## 📊 Statistiques GitHub
 
 ```
-Languages: Python | C++ | TypeScript | Bash | SQL
-Focus Areas: ML/AI | Data Engineering | Full-Stack Development
-Collaboration: Git/GitHub | Open to hackathons & opportunities
+Langages: Python | C++ | TypeScript | Bash | SQL
+Domaines d'Intérêt: ML/IA | Data Engineering | Full-Stack Development
+Collaboration: Git/GitHub | Ouvert aux hackathons & opportunités
 ```
 
 ---
 
-## 📫 Let's Connect
+## 📫 Connectons-Nous
 
-I'm always excited about new opportunities, collaborations, and challenging hackathons!
+Je suis toujours enthousiaste à l'idée de nouvelles opportunités, collaborations et hackathons stimulants !
 
 - **Email:** [anwar.mounir@centrale-casablanca.ma](mailto:anwar.mounir@centrale-casablanca.ma)
 - **LinkedIn:** [linkedin.com/in/anwar-mounir-35780a264/](https://linkedin.com/in/anwar-mounir-35780a264/)
@@ -170,8 +170,8 @@ I'm always excited about new opportunities, collaborations, and challenging hack
 
 <div align="center">
 
-**Currently open for:** New opportunities | Collaborations | Internships | Hackathons
+**Actuellement ouvert à:** Nouvelles opportunités | Collaborations | Stages | Hackathons
 
-*Last updated: March 2026*
+*Dernière mise à jour: Mars 2026*
 
 </div>
