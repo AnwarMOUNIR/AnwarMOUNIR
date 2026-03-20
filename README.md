@@ -2,13 +2,13 @@
 
 <div align="center">
 
-**Data Analyst & AI Engineering Student** | **Élève Ingénieur Centralien**
+**Data Scientist** | **Élève Ingénieur Centralien**
 
 *"Bridging the gap between raw data and intelligent, explainable systems."*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anwar-mounir-35780a264/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anwar.mounir@centrale-casablanca.ma)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-d2vwtiq10-anwar-mounirs-projects-e4cb71b5.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-kappa-lyart-13.vercel.app/)
 
 </div>
 
@@ -16,7 +16,9 @@
 
 ## 👨‍🎓 About Me
 
-First-year engineering student at **École Centrale Casablanca**, specializing in **Data Analysis** and **AI Engineering**. I'm passionate about building robust machine learning models, designing scalable data pipelines, and creating explainable AI solutions that solve real-world problems.
+First-year engineering student at **École Centrale Casablanca**, specializing in **Data Science** and **AI Engineering**. I'm passionate about building robust machine learning models, designing scalable data pipelines, and creating explainable AI solutions that solve real-world problems.
+
+**Education:** Centralien Engineering School (2025–Present) | CPGE Lycée Mohammed V, CNC (2023–2025)
 
 **Location:** Bouskoura, Morocco | **Age:** 19 | **Contact:** +212 600 951 587
 
@@ -80,17 +82,17 @@ High-performance multilingual RAG system for ingesting and searching 10,000+ eng
 
 ---
 
-### 🏥 LifeSaverBN3000 - Explainable ML for Obesity Risk
-**6-Person Team Project | March 2026**
+### 🏥 LifeSaverBN3000 - Medical Decision Support System
+**Mar 2026 – Mar 2026**
 
-Clinical decision-support tool using explainable machine learning for obesity risk estimation.
+Robust machine learning pipeline for clinical obesity risk classification with medical safety guardrails and explainability.
 
-- **Tech Stack:** Python, Streamlit, SHAP, XGBoost, GitHub Actions
+- **Tech Stack:** Python, Streamlit, Scikit-Learn, SHAP, GitHub Actions, Docker
 - **Key Features:**
-  - Evaluated models: Random Forest, XGBoost, LightGBM
-  - Memory-optimized implementation
-  - SHAP visualizations for complete model transparency
-  - UCI dataset analysis
+  - Developed Random Forest classifier achieving **94.8% accuracy** on 7-class obesity risk prediction
+  - **Medically-grounded Safety Guards:** Rule-based overrides using BMI thresholds to prevent physiologically implausible AI predictions
+  - **SHAP Explainability Dashboard:** Integrated into Streamlit for transparent, feature-level patient insights
+  - **Production-Ready CI/CD:** GitHub Actions pipeline with Docker containerization for automated testing and deployment
 
 ---
 
@@ -125,9 +127,9 @@ Autonomous line-following control system for mobile robot (PiCar-Pro V2).
 | Certification | Platform | Status |
 |---|---|---|
 | **Google Project Management Professional** | Coursera | ✅ Completed (Dec 2025) |
-| **Data Engineer Track** | DataCamp | 🔄 In Progress (Jan 2026) |
-| **SQL for Business Analysts** | DataCamp | 🔄 In Progress (Feb 2026) |
-| **Cloud Computing & BI** | AWS/Azure | 📅 Planned (Jun 2026) |
+| **Data Engineer Track** | DataCamp | 🔄 In Progress (Expected May 2026) |
+| **SQL for Business Analysts** | DataCamp | 🔄 In Progress (Mar 2026) |
+| **Cloud Computing & Business Intelligence** | AWS/Azure | 📅 Planned (Jun 2026) |
 
 ### Active Learning
 - Machine Learning Pipelines
@@ -162,7 +164,7 @@ I'm always excited about new opportunities, collaborations, and challenging hack
 - **Email:** [anwar.mounir@centrale-casablanca.ma](mailto:anwar.mounir@centrale-casablanca.ma)
 - **LinkedIn:** [linkedin.com/in/anwar-mounir-35780a264/](https://linkedin.com/in/anwar-mounir-35780a264/)
 - **GitHub:** [github.com/AnwarMOUNIR](https://github.com/AnwarMOUNIR)
-- **Portfolio:** [portfolio-d2vwtiq10-anwar-mounirs-projects-e4cb71b5.vercel.app/](https://portfolio-d2vwtiq10-anwar-mounirs-projects-e4cb71b5.vercel.app/)
+- **Portfolio:** [portfolio-kappa-lyart-13.vercel.app/](https://portfolio-kappa-lyart-13.vercel.app/)
 
 ---
 
