@@ -1,0 +1,5 @@
+# Curriculum Vitae (PDFs)
+*.pdf
+
+# opencode
+.opencode/

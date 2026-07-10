@@ -7,7 +7,8 @@
 *"Combler l'écart entre les données brutes et les systèmes intelligents et expliquables."*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anwar-mounir-35780a264/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anwar.mounir@centrale-casablanca.ma)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anwaremounire@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnwarMOUNIR)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-kappa-lyart-13.vercel.app/)
 
 </div>
@@ -16,109 +17,115 @@
 
 ## 👨‍🎓 À Propos
 
-Élève ingénieur en première année à l'**École Centrale Casablanca**, spécialisé en **Data Science** et **Ingénierie IA**. Je suis passionné par la construction de modèles d'apprentissage robustes, la conception de pipelines de données évolutifs et la création de solutions IA expliquables qui résolvent des problèmes du monde réel.
+Élève ingénieur en première année à l'**École Centrale Casablanca**, passionné par **Data Science** et **Ingénierie IA**. Je construis des modèles d'apprentissage robustes, des pipelines de données évolutifs et des solutions IA expliquables, tout en explorant la robotique autonome et la conception mécatronique.
 
 **Formation:** École Centrale Casablanca (2025–Présent) | CPGE Lycée Mohammed V, CNC (2023–2025)
 
-**Localisation:** Bouskoura, Maroc | **Âge:** 19 ans | **Contact:** +212 600 951 587
+**Localisation:** Bouskoura, Maroc | **Date de naissance:** 01/03/2006 | **Contact:** +212 600 951 587
+
+---
+
+## 🎓 Formation
+
+### École Centrale Casablanca — Élève Ingénieur Centralien (1ère année)
+`09/2025 – Présent` | Casablanca, Maroc
+
+- Vie Associative: Membre actif du club **Centrale Tech**
+
+---
+
+## 💼 Expérience Professionnelle
+
+### OCP Group — Stagiaire
+`07/2026 – Présent` | Safi, Maroc
+
+- Refactorisation d'un classeur Excel partagé de suivi de production selon un modèle d'un autre département
+- Développement de macros **VBA** (validation, reporting, consolidation), migration des données et rédaction d'un guide utilisateur
 
 ---
 
 ## 🛠️ Arsenal Technique
 
-### 🤖 Intelligence Artificielle & Machine Learning
-- **Deep Learning:** GRU, Embedding, RAG, APIs multimodales, Prompt Engineering
-- **Opérations Vectorielles:** Recherche vectorielle, MMR (Maximum Marginal Relevance)
-- **Frameworks:** TensorFlow, Keras, NumPy, Pandas, Matplotlib
-- **Optimisation:** Temperature Scaling, Optimisation d'entropie, Méthodes Probabilistes
+### 💻 Langages & Outils
+- **Langages:** Python (Avancé), SQL, C++, TypeScript, Bash
+- **Outils & Systèmes:** Linux, Git/GitHub, Docker, FastAPI, SSH, CAD (Onshape)
 
-### 📊 Data & Cloud
-- **Orchestration:** Dagster
-- **Bases de Données Vectorielles:** Milvus
-- **Conteneurisation:** Docker
-- **APIs:** Google Gemini API, FastAPI
-- **Bases de Données:** SQL, DuckDB
+### 🤖 Intelligence Artificielle & Data
+- **IA:** RAG, API multimodales, Prompt Engineering
+- **Frameworks:** TensorFlow, Keras
+- **Data Stack:** Milvus, Dagster, API Gemini
 
-### 💻 Langages & Systèmes
-- **Langages:** Python (Avancé), C++, TypeScript, Bash, SQL
-- **Outils:** Linux, Git/GitHub, LaTeX
-- **Web:** React, Vite, Tailwind CSS, Streamlit
-
-### 📚 Autres Compétences
-- **Compétences Transverses:** Approche Systémique, Gestion de la Complexité, Travail Collaboratif
-- **Productivité:** Google Workspace (Avancé), Jira, PowerBI (Débutant)
-- **Langues:** Français (Courant/Technique), Anglais (Courant), Arabe (Langue maternelle)
+### 🌐 Langues
+- **Français** (Courant/Technique) | **Anglais** (Courant) | **Arabe** (Langue maternelle)
 
 ---
 
 ## 🎯 Projets Phares
 
-### 🚀 DeepStudy - Assistant d'Étude IA
-**Hackathon Google DeepMind | Déc 2025 – Fév 2026**
+### 🔥 Robot de Prévention des Incendies (Projet PLBD)
+`12/2025 – Présent` | **Analyse de Risques, Raspberry Pi 4, WildWilly 6WD**
 
-Un assistant d'étude intelligent qui transforme des matériaux pédagogiques bruts en cours structurés utilisant l'IA multimodale.
+Rover 6WD autonome conçu en équipe de 5 pour la surveillance et la prévention des départs de feu.
 
-- **Stack Technique:** React, Gemini API, FastAPI, Vite, Tailwind CSS
 - **Fonctionnalités Clés:**
-  - Explication de concepts en temps réel alimentée par Google Gemini 3
-  - Synchronisation multimodale (Audio/PDF)
-  - Authentification sécurisée et confidentialité des données
-  - Interactions sans latence avec interface épurée
+  - Modélisation sur **Onshape** et conception d'un rover 6WD autonome
+  - Fusion de données capteurs (IMU, MQ-135, GPS) pour surveiller les départs de feu
+  - Transmission d'alertes via **LoRa**
 
 ---
 
-### 📚 MingoKM - Moteur de Recherche Ingénierie RAG
-**Nov 2025 – Fév 2026**
+### 📚 RAG Knowledge Base — Moteur de Recherche Ingénierie
+`11/2025 – 02/2026` | **Python, Dagster, Milvus, FastAPI, DuckDB**
 
-Système RAG hautement performant et multilingue pour ingérer et rechercher plus de 10 000 articles de recherche en ingénierie.
+Système RAG multilingue et performant pour ingérer et rechercher plus de 10 000 articles de recherche en ingénierie.
 
-- **Stack Technique:** Python, Dagster, Milvus, FastAPI, DuckDB
 - **Fonctionnalités Clés:**
-  - Déduplication exacte SHA-256
-  - Chunking sémantique et nettoyage de texte (Regex)
-  - Stockage vectoriel Milvus avec embeddings BGE-M3
-  - Ré-classement MMR pour diversité sémantique
-  - Pipeline ELT orchestré par Dagster
+  - Pipeline ELT orchestré par **Dagster** ingérant 10 000+ articles
+  - Stockage vectoriel **Milvus** avec embeddings BGE-M3
+  - Re-ranking **MMR** (Maximum Marginal Relevance) pour maximiser la pertinence sémantique
 
 ---
 
-### 🏥 LifeSaverBN3000 - Système d'Aide à la Décision Médicale
-**Mar 2026 – Mar 2026**
+### 🏥 LifeSaver BN3000 — Système d'Aide à la Décision Médicale
+`03/2026 – 03/2026` | **Python, Streamlit, Scikit-Learn, SHAP**
 
-Pipeline robuste de machine learning pour la classification clinique du risque d'obésité avec protections de sécurité médicale et expliquabilité.
+Application ML classifiant le risque d'obésité avec garde-fous médicaux et explicabilité.
 
-- **Stack Technique:** Python, Streamlit, Scikit-Learn, SHAP, GitHub Actions, Docker
 - **Fonctionnalités Clés:**
-  - Développement d'un classifieur Random Forest atteignant **94,8% de précision** sur la prédiction d'obésité en 7 classes
-  - **Garde-fous Médicaux Fondés:** Surcharges basées sur des règles utilisant des seuils d'IMC pour prévenir les prédictions IA physiologiquement implausibles
-  - **Tableau de Bord SHAP:** Intégré dans Streamlit pour une transparence totale et des insights au niveau des caractéristiques
-  - **CI/CD Prêt pour la Production:** Pipeline GitHub Actions avec conteneurisation Docker pour tests automatisés et déploiement sans faille
+  - Classifieur **Random Forest** atteignant **94,8% de précision** sur la prédiction d'obésité en 7 classes
+  - Garde-fous médicaux fondés (seuils d'IMC) pour prévenir des prédictions IA physiologiquement implausibles
+  - Tableau de bord **SHAP** intégré dans Streamlit pour une transparence totale
 
 ---
 
-### 🤖 Générateur de Noms - IA Générative au Niveau des Caractères
-**Jan 2026 – Mar 2026**
+### 🤖 Custom Generative AI — Générateur de Noms au Niveau des Caractères
+`01/2026 – 03/2026` | **Python, TensorFlow, Keras, NumPy, Pandas**
 
-Réseau neuronal récurrent personnalisé générant des noms humains nouveaux et phonétiquement viables.
+Modèle Embedding-GRU générant des prénoms phonétiquement viables avec contrôle d'entropie.
 
-- **Stack Technique:** TensorFlow, Keras, NumPy, Pandas
 - **Fonctionnalités Clés:**
-  - Entraîné sur un ensemble de données de 5,6M+ lignes
-  - Précision de validation de 84% en seulement 5 epochs
-  - Temperature scaling (T=1,5) pour résultats créatifs
-  - Benchmarking personnalisé pour tester les répétitions
+  - Entraîné sur un ensemble de données de **5,6 millions de lignes**
+  - Architecture **Embedding-GRU** avec contrôle d'entropie (temperature scaling)
+  - Génération de prénoms phonétiquement viables et nouveaux
 
 ---
 
-### 🤖 Système de Suivi de Ligne Robotique
-**Jan 2026**
+## 🏆 Compétitions & Distinctions
 
-Système autonome de contrôle du suivi de ligne pour robot mobile (PiCar-Pro V2).
+| Distinction | Compétition | Date | Réalisation |
+|---|---|---|---|
+| 🥇 **Top 5** | Compétition Nationale de Robotique (Club Innotech & AI, FPSB) | 05/2026 | Robot line follower haute vitesse — capteurs IR + algorithme **PID** |
+| 🎖️ **Quart de finaliste** | Compétition ARB (ENSAM Meknès) | 04/2026 | Robot autonome à direction différentielle (skid-steer) — triple détection ultrasons + lecteur **RFID RC522** |
 
-- **Stack Technique:** Python, OpenCV, Raspberry Pi
-- **Fonctionnalités Clés:**
-  - Traitement vidéo en temps réel
-  - Pipelines de vision par ordinateur pour navigation autonome
+---
+
+## 🧑‍🏫 Leadership Technique & Expérience FabLab
+
+### Co-organisateur Mini-Fablab & Accompagnateur Technique PLBD
+`04/2025 – Présent`
+
+- Pilotage opérationnel et technique du FabLab en continu (soirées/week-ends) ; accompagnement intensif de **36 équipes** PLBD
+- Conception et administration d'une plateforme web de réservation sur-mesure avec contrôle d'accès strict, garantissant des créneaux sans intrusion ni friction
 
 ---
 
@@ -126,24 +133,7 @@ Système autonome de contrôle du suivi de ligne pour robot mobile (PiCar-Pro V2
 
 | Certification | Plateforme | Statut |
 |---|---|---|
-| **Google Project Management Professional** | Coursera | ✅ Complétée (Déc 2025) |
-| **Parcours Data Engineer** | DataCamp | 🔄 En cours (Fin prévue Mai 2026) |
-| **SQL pour Analystes Business** | DataCamp | 🔄 En cours (Mar 2026) |
-| **Cloud Computing & Business Intelligence** | AWS/Azure | 📅 Planifiée (Jun 2026) |
-
-### Formations Actives
-- Pipelines de Machine Learning
-- Nettoyage & Prétraitement de Données
-- Fondamentaux du Hacking Éthique
-- Architecture Avancée SQL et Bases de Données
-
----
-
-## 🏢 Implication
-
-**Centrale Tech** - Membre Actif et Participant aux Ateliers
-
-En tant que membre actif du club technique de mon école d'ingénierie, je participe à des ateliers pratiques comblant le fossé entre connaissances théoriques et compétences d'ingénierie pratiques.
+| **Google Project Management Professional Certificate** | Coursera | ✅ Complétée (Déc 2025) — Série de 6 cours: Gestion de projet agile & documentation technique |
 
 ---
 
@@ -151,7 +141,7 @@ En tant que membre actif du club technique de mon école d'ingénierie, je parti
 
 ```
 Langages: Python | C++ | TypeScript | Bash | SQL
-Domaines d'Intérêt: ML/IA | Data Engineering | Full-Stack Development
+Domaines d'Intérêt: ML/IA | Data Engineering | Robotique | Full-Stack
 Collaboration: Git/GitHub | Ouvert aux hackathons & opportunités
 ```
 
@@ -161,7 +151,7 @@ Collaboration: Git/GitHub | Ouvert aux hackathons & opportunités
 
 Je suis toujours enthousiaste à l'idée de nouvelles opportunités, collaborations et hackathons stimulants !
 
-- **Email:** [anwar.mounir@centrale-casablanca.ma](mailto:anwar.mounir@centrale-casablanca.ma)
+- **Email:** [anwaremounire@gmail.com](mailto:anwaremounire@gmail.com)
 - **LinkedIn:** [linkedin.com/in/anwar-mounir-35780a264/](https://linkedin.com/in/anwar-mounir-35780a264/)
 - **GitHub:** [github.com/AnwarMOUNIR](https://github.com/AnwarMOUNIR)
 - **Portfolio:** [portfolio-kappa-lyart-13.vercel.app/](https://portfolio-kappa-lyart-13.vercel.app/)
@@ -172,6 +162,6 @@ Je suis toujours enthousiaste à l'idée de nouvelles opportunités, collaborati
 
 **Actuellement ouvert à:** Nouvelles opportunités | Collaborations | Stages | Hackathons
 
-*Dernière mise à jour: Mars 2026*
+*Dernière mise à jour: Juillet 2026*
 
 </div>
