@@ -4,7 +4,7 @@
 
 Je développe des logiciels et des systèmes physiques pour répondre à des besoins concrets. Mes intérêts vont du développement Python à la robotique, à la CAO et aux systèmes complexes.
 
-[Portfolio](https://portfolio-kappa-lyart-13.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/anwar-mounir-35780a264/) · [Email](mailto:anwaremounire@gmail.com)
+[Portfolio](https://portfolio-anwar-mounir.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/anwar-mounir-35780a264/) · [Email](mailto:anwaremounire@gmail.com)
 
 ## À propos
 
@@ -79,9 +79,10 @@ J’utilise l’IA pour la recherche, l’apprentissage et l’implémentation, 
 
 ## Contact
 
-- Portfolio : [portfolio-kappa-lyart-13.vercel.app](https://portfolio-kappa-lyart-13.vercel.app/)
+- Portfolio : [portfolio-anwar-mounir.vercel.app](https://portfolio-anwar-mounir.vercel.app/)
 - LinkedIn : [linkedin.com/in/anwar-mounir-35780a264](https://www.linkedin.com/in/anwar-mounir-35780a264/)
 - Email : [anwaremounire@gmail.com](mailto:anwaremounire@gmail.com)
 
 *Mis à jour le 17 octobre 2026.*
+
 
